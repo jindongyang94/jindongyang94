@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jindongyang94
-- 👀 I’m interested in Machine Learning & Blockchain Technologies.
-- 🌱 I’m currently learning coding NFT Projects & Fraud Detection Modules.
-- 💞️ I’m looking to collaborate on Blockchain & Fraud Detection AI.
+- 👀 I’m interested in building scalable, modularized technology for the healthcare industry. 
+- 🌱 I’m currently learning coding fraud detection, technical project delivery optimization & blockchain projects.
+- 💞️ I’m looking to collaborate on Fraud Detection AI and AI Verify
 - 📫 How to reach me: Through this github.
 
 <!---
